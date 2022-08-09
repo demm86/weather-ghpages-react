@@ -28,7 +28,7 @@ function App() {
   };
 
   return (
-    <div className="wrapper active">
+    <div>
       <Header changeUnits={changeUnits} units={units}></Header>
       <Search units={units}></Search>
     </div>
