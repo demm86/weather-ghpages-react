@@ -69,7 +69,7 @@ export const Search = ({ units }) => {
   const onSuccess = (position) => {
     const { latitude, longitude } = position.coords;
     setStatusProcess("block");
-    setStatusError("block");
+    setStatusError("none");
     weatherLatLon(latitude, longitude)
       .then((res) => setCurrentWeather(formatCurrentWeather(res)))
       .then(() => {
