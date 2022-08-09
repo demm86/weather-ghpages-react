@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weather-ghpages-react/static/css/main.f74ad373.css",
-    "main.js": "/weather-ghpages-react/static/js/main.e930dd8c.js",
+    "main.js": "/weather-ghpages-react/static/js/main.501ba63c.js",
     "static/js/787.0bc6fd6f.chunk.js": "/weather-ghpages-react/static/js/787.0bc6fd6f.chunk.js",
     "index.html": "/weather-ghpages-react/index.html",
     "main.f74ad373.css.map": "/weather-ghpages-react/static/css/main.f74ad373.css.map",
-    "main.e930dd8c.js.map": "/weather-ghpages-react/static/js/main.e930dd8c.js.map",
+    "main.501ba63c.js.map": "/weather-ghpages-react/static/js/main.501ba63c.js.map",
     "787.0bc6fd6f.chunk.js.map": "/weather-ghpages-react/static/js/787.0bc6fd6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f74ad373.css",
-    "static/js/main.e930dd8c.js"
+    "static/js/main.501ba63c.js"
   ]
 }
